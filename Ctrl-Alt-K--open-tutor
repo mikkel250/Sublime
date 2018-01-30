@@ -1,0 +1,7 @@
+Ctrl-Alt-K--open-tutor
+
+Press `Ctrl + K, Ctrl + V`, sublime will show you a list of contents that
+we earlier copied in the clipboard. Selecting any of them will paste it here.
+
+* Soft undo - `Ctrl + U`
+* Soft redo - `Ctrl + Shift + U`
